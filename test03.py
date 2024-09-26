@@ -7,3 +7,4 @@ inName = Tom
 print(sayHello(inName))
 
 print('Requested by boss') #user01 추가 
+print('user02')
