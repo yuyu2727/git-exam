@@ -1,9 +1,9 @@
-#test02.py
+#test03.py
 
-def mulNum(a,b):
-    result=a*b
-    retrun result
+def sayHello(name):
+    return 'Hello, ' + name + '!!' #user01 수정
     
-num01 = 10
-num02 = 20
-print(mulNum(num01,num02))
+inName = Tom
+print(sayHello(inName))
+
+print('Requested by boss') #user01 추가 
